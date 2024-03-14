@@ -7,8 +7,6 @@ I'll try to make tools for the protection and monitoring of DDoS attacks on webs
 <b>Very crude version</b>
 
 
-TODO:
-Make multi lang GUI
 
 
 

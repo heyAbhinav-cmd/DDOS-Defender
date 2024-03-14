@@ -36,7 +36,4 @@ P.S. Port 8000 must be open in your firewall
 Use at your own risk. No warranties expressed or implied.
 
 
-(c)
-===
-favicon form
-http://www.visualpharm.com
+
